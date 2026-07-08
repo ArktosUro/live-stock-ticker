@@ -29,4 +29,40 @@ Users can see whether the stock price has **increased**, **decreased**, or **rem
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧠 What I Learned
+
+This project helped me practice and improve my understanding of:
+
+- DOM manipulation
+- JavaScript modules
+- ES6 `import` and `export`
+- Object destructuring
+- Conditional logic
+- Dynamic UI updates
+- Using `setInterval()` for timed updates
+- Comparing previous and current state values
+
+---
+
+## 🚀 Future Enhancements
+
+Possible improvements:
+
+- 📌 Support multiple stocks
+- 🌐 Connect to a real stock market API
+- 📊 Add stock price charts
+- 🌙 Implement dark mode
+- 📱 Improve mobile responsiveness
+
+---
+
+## 👨‍💻 Author
+
+**Monica Ferraz**
+
+Created as part of a **Scrimba JavaScript challenge**.
+
+This project was developed independently using concepts learned throughout the Scrimba curriculum, with custom implementation, debugging, and problem-solving.
